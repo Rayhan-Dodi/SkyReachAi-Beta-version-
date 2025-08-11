@@ -90,8 +90,8 @@ Throughout the entire training process, we did not experience any irrecoverable 
 
 | **Model** | **#Total Params** | **#Activated Params** | **Context Length** | **Download** |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-| Sky-Reach AI-Beta-Version | 671B | 37B | 128K   | [🤗 Hugging Face](https://huggingface.co/sky_reach_ai-ai/Sky-Reach AI-V3-Base)   |
-| Sky-Reach AI-Beta-Version   | 671B | 37B |  128K   | [🤗 Hugging Face](https://huggingface.co/sky_reach_ai-ai/Sky-Reach AI-V3)   |
+| Sky-Reach AI-Beta-Version | 671B | 37B | 128K   | [🤗 Hugging Face](https://huggingface.co/sky_reach_ai-ai/Sky-Reach AI-Beta Version)   |
+| Sky-Reach AI-Beta-Version   | 671B | 37B |  128K   | [🤗 Hugging Face](https://huggingface.co/sky_reach_ai-ai/Sky-Reach AI-Beta Version)   |
 
 </div>
 
