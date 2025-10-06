@@ -1,4 +1,4 @@
-# Sky-Reach AI-V3 Weight File Documentation
+# Sky-Reach AI-Beta Weight File Documentation
 
 ## New Fields in `config.json`
 
@@ -10,7 +10,7 @@
 
 ## Weight Structure Overview
 
-The Sky-Reach AI-V3 weight file consists of two main components: **Main Model Weights** and **MTP Modules**.
+The Sky-Reach AI-Beta weight file consists of two main components: **Main Model Weights** and **MTP Modules**.
 
 ### 1. Main Model Weights
 
@@ -59,7 +59,7 @@ The Sky-Reach AI-V3 weight file consists of two main components: **Main Model We
 
 ## FP8 Weight Documentation
 
-Sky-Reach AI-V3 natively supports FP8 weight format with 128x128 block scaling.
+Sky-Reach AI-Beta natively supports FP8 weight format with 128x128 block scaling.
 
 ### FP8 Configuration
 
